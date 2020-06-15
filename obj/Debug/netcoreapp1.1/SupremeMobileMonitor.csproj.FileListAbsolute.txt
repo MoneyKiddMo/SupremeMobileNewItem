@@ -1,0 +1,6 @@
+C:\Users\JC\Documents\Monitor\SupremeMobileMonitor\obj\Debug\netcoreapp1.1\SupremeMobileMonitor.csprojAssemblyReference.cache
+C:\Users\JC\Documents\Monitor\SupremeMobileMonitor\obj\Debug\netcoreapp1.1\SupremeMobileMonitor.packages.DiscordWebHookLib.DiscordWebhookLib.Properties.Resources.resources
+C:\Users\JC\Documents\Monitor\SupremeMobileMonitor\obj\Debug\netcoreapp1.1\SupremeMobileMonitor.csproj.GenerateResource.cache
+C:\Users\JC\Documents\Monitor\SupremeMobileMonitor\obj\Debug\netcoreapp1.1\SupremeMobileMonitor.AssemblyInfoInputs.cache
+C:\Users\JC\Documents\Monitor\SupremeMobileMonitor\obj\Debug\netcoreapp1.1\SupremeMobileMonitor.AssemblyInfo.cs
+C:\Users\JC\Documents\Monitor\SupremeMobileMonitor\obj\Debug\netcoreapp1.1\SupremeMobileMonitor.csproj.CoreCompileInputs.cache
